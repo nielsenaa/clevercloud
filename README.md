@@ -109,17 +109,26 @@ When Covid brought to a halt the expansions of my last project
 
 I can't see why i would oppose any of them. Rather, i would say a good balance is enviable, not too much, not too little
 
-_For a pair of CleverCloud's values, describe a time in which the two values came into tension for you or your work, and how you resolved it._
+<strong>_For a pair of CleverCloud's values, describe a time in which the two values came into tension for you or your work, and how you resolved it._</strong>
 
 In my experience, tension between Urgency and Thriftiness are a recurring situation in most projects. Without recalling one specifically in details (truely way too many), it usually goes like this: you start development with a fixed budget and a tight deadline, for say.. a live video streaming platform. Suddenly you find out the deadline is too tight and that a critical component of the project you wanted to do inhouse will take much more time than expected, and that a relatively expensive proprietary software and license is already available but would significantly accelerate the development process, allowing you to meet the client's tight deadline. The over-cost is a significant portion of the project budget, and there is a concern about exceeding the initially allocated funds.
 
 After evaluating pro and cons, you ultimately decide to invest in the proprietary software, choosing the shortest licence term possible, as the time saved ensures that you deliver the project on time and meet the client's expectations. However, parallely, you also implement cost-saving measures in other areas of the project to mitigate the initial budget impact (servers specs, bandwidth..). Then you finish coding that critical component inhouse, and you phase out the proprietary software later, replacing it with yours. The next year and the followings, you fall again within the projected overall budget you agreed on with your client 
 
 
-_What do you think should be improved on our product?_
+<strong>_What do you think should be improved on our product?_</strong>
 
-_Why do you want to work for CleverCloud?_
+I am not really in a position to give any advice, but as for any other tech company offering public services, documentation is always perfectible, for sure :) . 
 
+Other than that, it is really too early, i don't have any practice using Clever cloud's products, but looking at the documentation, i can see "Develop" and "Deploy" are the main sections .. how about an "Observe" section ? also, what about secrets management :)
+
+<strong>_Why do you want to work for CleverCloud?_</strong>
+
+Work in a modern, agile environment, in a position and a domain involving communicating with humans, coding/scripting/configuring & running up software and infrastructure 
+
+Get exposed to lots of different customer technical levels and needs and get to know, help and accompagny these customers in achieving their goals.
+
+Last but not least, further expand my technical knowledge in fast-paced domains
 
 <br/><br/>
 
@@ -172,6 +181,7 @@ _Analysis sample(s)_
 
 Especially as engineers become more senior, oral presentation of work becomes an important vehicle for communication. If you have given a technical presentation that is publicly available, please provide a link to the slides (and the video if available).  Engineers are often also very self-conscious about their presentations, so don’t worry about any imperfections — and don’t be concerned if it’s brief or informal! If you don’t have a publicly available presentation, please describe a topic on which you have presented in the past.
 
+I have never presented anything publicly, as i never needed to :/
 
 _Presentation sample(s)_
 
