@@ -189,7 +189,7 @@ _Analysis sample(s)_
 
 Especially as engineers become more senior, oral presentation of work becomes an important vehicle for communication. If you have given a technical presentation that is publicly available, please provide a link to the slides (and the video if available).  Engineers are often also very self-conscious about their presentations, so don’t worry about any imperfections — and don’t be concerned if it’s brief or informal! If you don’t have a publicly available presentation, please describe a topic on which you have presented in the past.
 
-I have never presented anything publicly, as i never needed to :/
+<strong>I have never presented anything publicly, as i never needed to :/</strong>
 
 _Presentation sample(s)_
 
