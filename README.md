@@ -138,8 +138,14 @@ Last but not least, further expand my technical knowledge in fast-paced domains
 
 The ultimate measure of an engineer is our work. Please submit between one to three work samples, providing links if/as necessary. This should be work that best reflects you as an engineer -- work that you are proud of or you feel is otherwise representative of who you aspire to be as an engineer. If this work is entirely proprietary, please describe it as fully as you can, providing necessary context.
 
+<strong>
+Please see : 
 
-_Work sample(s)_
+https://www.expedy.fr
+https://www.serge.video/
+https://expedy.stoplight.io/
+</strong>
+
 
 <br/><br/>
 
