@@ -141,31 +141,31 @@ The ultimate measure of an engineer is our work. Please submit between one to th
 <strong>
 Please see : 
 
-https://www.expedy.fr
-https://www.serge.video/
-https://expedy.stoplight.io/
+https://www.expedy.fr <br/>
+https://www.serge.video/ <br/>
+https://www.printer-point.com/ <br/>
 </strong>
 
 
 <br/><br/>
-
----
 
 <ins>Writing samples</ins>
 
 We have found that the engineers that we like to work with tend to value the written word. What’s an example of writing that you are proud of?  This writing can take a variety of forms, e.g.: \
 
 
-
-
 * A block comment in source code
 * A blog entry or other long-form post on a technical issue
 * A technical architecture document, design document, specification, whitepaper or academic paper
 
+
 Please submit at least one writing sample (and no more than three) that you feel represents you, providing links if/as necessary.
 
+<strong>
+Please see a documentation i wrote: 
 
-_Writing sample(s)_
+https://expedy.stoplight.io/<br/>
+</strong>
 
 <br/><br/>
 
