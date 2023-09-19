@@ -75,17 +75,46 @@ You should find that these candidate materials will take no more than a couple o
 
 Please answer the following questions, using as much space as you need. All of these questions are important, but the final question is probably the most important one; take your time in answering it!
 
-_What work have you found most technically challenging in your career and why?_
+<strong>_What work have you found most technically challenging in your career and why?_</strong>
 
-_What work have you done that you were particularly proud of and why?_
+That time when i had to make a real working ubereat clone serving 3 big cities and their suburbs.
+It took lots of realtime logistics&communication software/interfaces development, closely knitting several different actors together: 
+-the customers
+-the restaurants lobbies, and their kitchens
+-the deliverers,
+-the on-call dispatchers
+-the platform owners
 
-_When have you been happiest in your professional career and why?_
+It also took a good deal of dedicated hardware management as well, online and at edge infra servers, tablets, printer and handheld devices)
 
-_When have you been unhappiest in your professional career and why?_
+<strong>_What work have you done that you were particularly proud of and why?_</strong>
 
-_Regarding CleverCloud's values, is there any that you oppose?_
+The one i would be particularly proud of would be the iot api platform i did to spice up a boring old fashioned tech : thermal printers. The design i figured out is delightfully simple, yet required indepth technical comprehension of an old proprietary language (ESC/POS) and marrying it to modern web/api and realtime tech. The result is fullfilling : a fleet of as many standalone printers you wish, and remotely printing on any or all of them with simple api request
+
+<strong>_When have you been happiest in your professional career and why?_</strong>
+
+I don't have a specific happiest moment in my pro career, i have had many, but 2 periods more than others come to mind:
+
+Early in my career when on my first 360° "webmaster" job in 2005-6, but it was more of a CTO/COO position in the end. 
+I got to get actively involved, and in minute details, in each and every part of the business i worked for, digitizing every single part of it, from coding and setting up it's first dedicated server and online store to pluggin'it to the newly digitized finance backend i coded too, to rolling out digital logistic tools to setting up and managing marketing campains to interconnecting marketplaces thought api's etc etc.. Witnessing the direct relation between each incremental improvements and the sales performances go up months after months on good old google analytics was exhilarating
+ 
+And then more recenty in my career, within my own company, with a set of api tools i set up and provided to professionals.
+For the freedom of exploring technical and business opportunities as they come, and for the greatest pleasure of seeing my customers using my products and enjoying seeing them satisfied     
+
+<strong>_When have you been unhappiest in your professional career and why?_</strong>
+
+When Covid brought to a halt the expansions of my last project
+
+<strong>_Regarding CleverCloud's values, is there any that you oppose?_</strong>
+
+I can't see why i would oppose any of them. Rather, i would say a good balance is enviable, not too much, not too little
 
 _For a pair of CleverCloud's values, describe a time in which the two values came into tension for you or your work, and how you resolved it._
+
+In my experience, tension between Urgency and Thriftiness are a recurring situation in most projects. Without recalling one specifically in details (truely way too many), it usually goes like this: you start development with a fixed budget and a tight deadline, for say.. a live video streaming platform. Suddenly you find out the deadline is too tight and that a critical component of the project you wanted to do inhouse will take much more time than expected, and that a relatively expensive proprietary software and license is already available but would significantly accelerate the development process, allowing you to meet the client's tight deadline. The over-cost is a significant portion of the project budget, and there is a concern about exceeding the initially allocated funds.
+
+After evaluating pro and cons, you ultimately decide to invest in the proprietary software, choosing the shortest licence term possible, as the time saved ensures that you deliver the project on time and meet the client's expectations. However, parallely, you also implement cost-saving measures in other areas of the project to mitigate the initial budget impact (servers specs, bandwidth..). Then you finish coding that critical component inhouse, and you phase out the proprietary software later, replacing it with yours. The next year and the followings, you fall again within the projected overall budget you agreed on with your client 
+
 
 _What do you think should be improved on our product?_
 
